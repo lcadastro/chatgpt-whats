@@ -1,0 +1,15 @@
+###
+POST http://localhost:3000/gogpt
+Content-Type: application/json
+
+{
+  "message": "crie um texto motivacional para casais, no formato usado pelo filósofo Mário Sergio Cortella"
+}
+
+###
+POST http://localhost:3000/gogpt
+Content-Type: application/json
+
+{
+  "message": "quais são as melhores técnicas para ensinar crianças o calculo de subtração"
+}
