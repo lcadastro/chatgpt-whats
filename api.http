@@ -1,9 +1,8 @@
-###
 POST http://localhost:3000/gogpt
 Content-Type: application/json
 
 {
-  "message": "crie um texto motivacional para casais, no formato usado pelo filósofo Mário Sergio Cortella"
+  "message": "(PT-br) Separating the development and production environment in Golang? In short text"
 }
 
 ###
@@ -11,5 +10,5 @@ POST http://localhost:3000/gogpt
 Content-Type: application/json
 
 {
-  "message": "quais são as melhores técnicas para ensinar crianças o calculo de subtração"
+  "message": "qual é a melhor IOS ou Android"
 }
