@@ -13,7 +13,7 @@ Antes de começar, certifique-se de que possui uma chave de API válida do OpenA
 Clone este repositório em sua máquina:
 
 ```bash
-git clone https://github.com/seu-usuario/gpt-3.5-turbo-chatbot.git
+git clone https://github.com/lcadastro/chatgpt-whats.git
 ```
 Na pasta do projeto, crie um arquivo .env e adicione sua chave de API do OpenAI como uma variável de ambiente, como mostrado abaixo:
 ```makefile
